@@ -11,7 +11,7 @@ export const Hero = () => {
           I am a full-stack developer with 2 Years of experince using React and
           Nodejs.Reach out if you'd like to learn more!
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}> Contact Me</a>
+        <a href="mailto:tulsyannidhi19@gmail.com" className={styles.contactBtn}> Contact Me</a>
       </div>
       <img src={getImageUrl("hero/heroImage.png")} alt="hero image of me" className={styles.heroImg}/>
       <div className={styles.topBlur}></div>

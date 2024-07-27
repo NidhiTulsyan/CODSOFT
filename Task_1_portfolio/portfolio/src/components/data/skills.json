@@ -24,7 +24,15 @@
       "imageSrc": "skills/mongodb.png"
     },
     {
-      "title": "Figma",
-      "imageSrc": "skills/figma.png"
+      "title": "Php",
+      "imageSrc": "skills/php.png"
+    },
+    {
+      "title": "SQL",
+      "imageSrc": "skills/sql.png"
+    },
+    {
+      "title": "Javascript",
+      "imageSrc": "skills/js.png"
     }
   ]
