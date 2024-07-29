@@ -1,16 +1,16 @@
 [
   {
-    "name": "Full stack",
+    "name": "Full stack Web Development",
     "organisation": "Udemy",
-    "startDate": "Sept, 2022",
-    "endDate": "Present",
-    "imageSrc": "history/google.png"
+    "startDate": "june, 2021",
+    "endDate": "Dec,2021",
+    "imageSrc": "history/udemy.png"
   },
   {
-    "name": "Full stack",
-    "organisation": "Udemy",
-    "startDate": "Sept, 2022",
-    "endDate": "Present",
-    "imageSrc": "history/google.png"
+    "name": "Introduction To cloud Computing",
+    "organisation": "Simplilearn",
+    "startDate": "june, 2024",
+    "endDate": "july,2024",
+    "imageSrc": "history/Simplilaen.png"
   }
 ]
