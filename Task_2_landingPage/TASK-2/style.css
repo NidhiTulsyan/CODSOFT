@@ -1,0 +1,202 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        .navbar {
+            background-color: aquamarine;
+            height: 8rem;
+            width: 100%;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            /* position: relative; */
+        }
+
+        .service {
+            /* background-color: beige; */
+            float: left;
+            width: 50%;
+            height: 75%;
+            margin: 13px;
+
+
+        }
+
+        .disp {
+            margin: 5%;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-evenly;
+        }
+
+        .callback {
+            /* background-color: rgb(236, 122, 122); */
+            width: 20%;
+            height: 75%;
+            float: right;
+            margin: 13px;
+            margin-right: 50px;
+
+        }
+
+        .call {
+            margin: 5%;
+            text-align: center;
+            border: 3px solid;
+            border-color: rgb(19, 19, 19);
+            border-radius: 30px;
+            cursor: pointer;
+        }
+
+        .callText {
+            color: rgb(79, 74, 74);
+        }
+
+        .callText:hover {
+            color: rgb(90, 90, 146);
+        }
+
+        li {
+            list-style-type: none;
+
+        }
+
+        a {
+            text-decoration: none;
+            color: black;
+        }
+
+        a:hover {
+            color: red;
+        }
+
+        section {
+            background-color: aquamarine;
+            height: 40rem;
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: space-evenly;
+            font-family: serif;
+        }
+
+        .centerDiv {
+            width: 50%;
+            text-align: center;
+        }
+
+        .sectionTool {
+            background-color: rgb(122, 179, 226);
+            height: 50rem;
+            width: 100%;
+        }
+
+        .toolkit {
+            margin: 5%;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-evenly;
+            margin-bottom: 0px;
+        }
+
+        .experience {
+            margin: 5%;
+            margin-top: 20px;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-evenly;
+        }
+
+        #client {
+            background-color: rgb(149, 223, 198);
+            height: 20rem;
+            width: 100%;
+
+
+        }
+
+        .clientName {
+            margin-top: 1%;
+            margin-left: 12%;
+            margin-right: 7%;
+            display: flex;
+            flex-wrap: wrap;
+            /* flex-direction: row;
+            justify-content: space-evenly; */
+        }
+
+        .name {
+            /* flex: 1; */
+            margin: 20px;
+            height: 100px;
+            /* background-color: rgb(176, 218, 236); */
+            /* border: 5px solid black; */
+            width: 20%;
+            /* text-align: center; */
+        }
+
+        .services {
+            background-color: rgb(149, 223, 198);
+            height: 60rem;
+            width: 100%;
+            display: flex;
+            flex-direction: row;
+
+        }
+
+        .formData {
+            border: 1px solid black;
+            width: 50%;
+
+        }
+
+
+
+        input {
+            height: 50px;
+            margin: 15px;
+            width: 60%;
+            border-radius: 10px;
+            font-size: large;
+        }
+
+        .btn {
+            height: 70px;
+            margin: 15px;
+            width: 60%;
+            border-radius: 5px;
+            background-color: rgb(56, 155, 231);
+            font-size: large;
+            color: white;
+            text-transform: uppercase;
+            font-family: 'Times New Roman', Times, serif;
+
+        }
+
+        .formService {
+            border: 1px solid black;
+            width: 50%;
+
+        }
+
+        .data {
+            margin: 40px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            height: 15%;
+        }
+
+        .foot {
+            margin: 50px;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-evenly;
+
+        }
+   
