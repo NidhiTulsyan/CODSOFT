@@ -1,6 +1,5 @@
 // import React from "react";
 
-
 import React from "react";
 
 import styles from "./Experience.module.css";
@@ -26,7 +25,7 @@ export const Experience = () => {
           })}
         </div>
         <ul className={styles.history}>
-        <h2 className={styles.title}>Certifications</h2>
+          <h2 className={styles.title}>Certifications</h2>
           {history.map((historyItem, id) => {
             return (
               <li key={id} className={styles.historyItem}>
@@ -35,7 +34,8 @@ export const Experience = () => {
                   alt={`${historyItem.organisation} Logo`}
                 />
                 <div className={styles.historyItemDetails}>
-                  <h3>{`${historyItem.name}, ${historyItem.organisation}`}</h3>
+                  <h3>{`${historyItem.name} `}</h3>
+                  <h3>{` ${historyItem.organisation}`}</h3>
                   <p>{`${historyItem.startDate} - ${historyItem.endDate}`}</p>
                   {/* <ul>
                     {historyItem.experiences.map((experience, id) => {

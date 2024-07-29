@@ -3,7 +3,7 @@
       "title": "Coffee Ordering Website",
       "imageSrc": "projects/project.png",
       "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "MongoDb"],
+      "skills": ["ReactJs", "ExpressJs", "NodeJs", "MongoDb"],
       "demo": "https://www.example.com",
       "source": "https://github.com/NidhiTulsyan/CoffeeFinal.git"
     },
@@ -11,7 +11,7 @@
       "title": "Movie Ticket Booking",
       "imageSrc": "projects/project.png",
       "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "MongoDb"],
+      "skills": ["ReactJs", "ExpressJs", "Node", "MongoDb"],
       "demo": "https://www.example.com",
       "source": "https://github.com/NidhiTulsyan/movieBook.git"
     },
@@ -19,15 +19,15 @@
       "title": "My portfolio",
       "imageSrc": "projects/pj1.png",
       "description": "This is my portfolio website made to know about me and my skills in this domain.",
-      "skills": ["React", "css"],
+      "skills": ["React", "css","html"],
       "demo": "https://nidhitulsyan.netlify.app",
       "source": "https://github.com/NidhiTulsyan/CODSOFT/tree/ad440bb85b8ebbeee217a051889c0ec3de45a8c2/Task_1_portfolio/portfolio"
     },
     {
       "title": "SocialApp layout",
       "imageSrc": "projects/social.png",
-      "description": "This is my portfolio website made to know about me and my skills in this domain.",
-      "skills": ["React", "css"],
+      "description": "This is my Social All layout website made to know the concepts of Material-UI and Implemented dark and light mode",
+      "skills": ["ReactJs", "css","Material-UI"],
       "demo": "https://socialapplayout.netlify.app/",
       "source": "https://github.com/NidhiTulsyan/mui-socilaApp.git"
     }
